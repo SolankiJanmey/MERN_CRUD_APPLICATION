@@ -8,9 +8,13 @@
 
 ## Steps to setup project
 
+- create **scaletech_db** before starting the backend server.All the tables will get build automatically.
 - npm builld or yarn build command to create build of frontend folder.
 - npm install or yarn install to install all the node_modules.
 - Follow below links for more details
+
+- Validation for password while registering the user is :-
+  - It must contain special character, character, digit and length must be greater than 8 and less than 15. Eg:- Abcd@1234
 
 ## Available Scripts
 
